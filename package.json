@@ -1,0 +1,11 @@
+{
+  "name": "js-atgmpu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "alpinejs": "^2.8.2",
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.0.9",
+    "tailwindcss": "^2.1.4"
+  }
+}
